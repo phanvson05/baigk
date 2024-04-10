@@ -1,0 +1,8 @@
+<Students>
+	<Student>
+		<id>01</id>
+		<name>Phan Van Son</name>
+		<address>Quang nam</address>
+		<dateOfBirth>08/07/2005</dateOfBirth>
+	</Student>
+	</Students>
